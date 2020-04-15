@@ -1,0 +1,24 @@
+{
+  "name": "react-native-geocoder-osm",
+  "version": "0.0.1",
+  "description": "Geocoding Service for React, React-native and nodejs, This Project uses Open Street Map API",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranggadarmajati/react-native-geocoder-osm.git"
+  },
+  "keywords": [
+    "react-native",
+    "geocoder",
+    "geocoding"
+  ],
+  "author": "Rangga Darmajati <rangga.android69@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ranggadarmajati/react-native-geocoder-osm/issues"
+  },
+  "homepage": "https://github.com/ranggadarmajati/react-native-geocoder-osm#readme"
+}
