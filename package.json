@@ -1,6 +1,6 @@
 {
-  "name": "react-native-geocoder-osm",
-  "version": "0.0.1",
+  "name": "@julioxus/react-native-geocoder-osm",
+  "version": "0.0.2",
   "description": "Geocoding Service for React, React-native and nodejs, This Project uses Open Street Map API",
   "main": "src/index.js",
   "scripts": {
