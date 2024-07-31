@@ -1,6 +1,6 @@
 # react-native-geocoder-osm
 
-Geocoding Service for React-Native
+Geocoding Service for React-Native, ReactJS, NodeJS.
 
 
 This Project uses OpenStreetMap API
