@@ -36,4 +36,4 @@ class GeocoderOsm {
     }
 }
 
-module.exports = new GeocoderOsm
+export default new GeocoderOsm
